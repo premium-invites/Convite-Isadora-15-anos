@@ -6,16 +6,16 @@
 window.CONFIG = {
   nome: "Isadora — XV anos",
   whatsapp: {
-    numero: "", // PREENCHER com DDI+DDD+numero do responsável (ex: 55...)
+    numero: "+555181086566", // PREENCHER com DDI+DDD+numero do responsável (ex: 55...)
     mensagem: "Olá! Gostaria de confirmar minha presença na festa de 15 anos da Isadora, em 19/12/2026, às 21h."
   },
-  mapa: "", // PREENCHER com a URL https://... do local da festa
+  mapa: "https://maps.app.goo.gl/7u8vWhQiNzzg65jL8", // PREENCHER com a URL https://... do local da festa
   contatoCriador: {
     numero: "+5588988692212", // Contato Pedro Vieira presente no ZIP original: CONFIRMAR
     mensagem: "Olá, Pedro Vieira! Gostei do convite digital da Isadora e quero saber mais sobre um convite personalizado."
   },
   telas: {
-    video: false, // Ativar apenas depois de enviar assets/video.mp4 (H.264)
+    video: true, // Ativar apenas depois de enviar assets/video.mp4 (H.264)
     whatsapp: true,
     localizacao: true,
     presentes: true,
