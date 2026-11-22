@@ -24,8 +24,8 @@ window.CONFIG = {
     contagem: false
   },
   pix: {
-    ativo: false, // A imagem oferece "Dinheiro ou Pix", mas não exibe botão de copiar
-    chave: "",
+    ativo: true, // A imagem oferece "Dinheiro ou Pix", mas não exibe botão de copiar
+    chave: "nayti.neq@gmail.com",
     posicao: {left: 22, top: 75, width: 56, height: 5}
   },
   info: { ativo: true, posicao: {left: 70.1, top: 88.0, width: 20.4, height: 4.8} },
