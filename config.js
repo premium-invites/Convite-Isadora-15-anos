@@ -28,7 +28,7 @@ window.CONFIG = {
     chave: "nayti.neq@gmail.com",
     posicao: {"left":17.241494170830357,"top":82.06638115631692,"width":64.94599095883892,"height":5.214132762312634}
   },
-  info: { ativo:true, posicao: {"left":70.1,"top":88,"width":20.4,"height":4.8} },
+info: { ativo:true, posicao: {"left":72.00340233166786,"top":88.42826552462527,"width":22.113062098501068,"height":7.262526766595289} },
 
 botoesVoltar: {
     presentes: { mostrarTexto:false, posicao: {"left":23.480680466333574,"top":90.47173447537473,"width":53.4,"height":4.8} },
@@ -49,7 +49,7 @@ botoesVoltar: {
         confirm: { left:9.355103497501783, top:58.505995717344746, width:19.867071139662148, height:11.12441113490364 },
         map: { left:39.82612419700214, top:58.61306209850107, width:20.438091839162503, height:11.445610278372591 },
         gift: { left:69.35510349750179, top:58.61306209850107, width:22.34149417083036, height:11.55267665952891 },
-        dress: { left:24.34544373066857, top:72.09186295503213, width:20.438091839162503, height:11.673875802997859 },
+        dress: { left:24.34544373066857, top:72.73426124197003, width:20.438091839162503, height:11.673875802997859 },
         manual: { left:55.006804663335714, top:72.30599571734476, width:21.009112538662862, height:11.459743040685225 }
   },
   contagem: {
